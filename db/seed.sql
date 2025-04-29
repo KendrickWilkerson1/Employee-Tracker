@@ -12,8 +12,8 @@ VALUES ('Lead Software Engineer', 200000, 3),
        ('Jr Accountant', 85000, 4), 
        ('Marketing Manager', 95000, 2), 
        ('Marketing Intern', 60000, 2), 
-       ('Lead Salesperson', 250000, 1), 
-       ('Jr Salesperson', 100000, 1);
+       ('Sales Manager', 250000, 1), 
+       ('Salesperson', 100000, 1);
 
 
 
