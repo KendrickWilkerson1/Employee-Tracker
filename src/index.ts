@@ -100,8 +100,6 @@ const addEmployee = async () => {
           name: 'None',
           value: null
         });
-
-        console.log(managerChoices);
         
         inquirer.prompt([
         {
