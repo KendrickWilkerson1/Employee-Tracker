@@ -3,8 +3,8 @@
  ## Table of Content
   * [Description](#decription)
   * [Usage](#usage)
-  * [User Story](#userstory)
-  * [Acceptance Criteria](#acceptancecriteria)
+  * [User Story](#userStory)
+  * [Acceptance Criteria](#acceptanceCriteria)
 
   
   ## Description 
